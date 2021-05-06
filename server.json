@@ -1,0 +1,103 @@
+{
+  
+    "Receitas": [
+      {
+        "id": "1",
+        "title": "Cuscuz de Painço",
+        "image": "https://i.imgur.com/oAlBTOb.png",
+        "times": "30",
+        "porcoes": 5,
+        "descriptioningredientes": {
+          "ingrediente1": " 1 xícara painço ou cuscuz ",
+          "ingrediente2": "1 colher de sopa azeite",
+          "ingrediente3": "  divididas  2 ¼ xícaras água com sal de especiarias ou caldo legumes ",
+          "ingrediente4": "1 colher de sopa água",
+          "ingrediente5": "   1 colher de chá cúrcuma ",
+          "ingrediente6": " 2 colheres de chá semente de mostarda",
+          "ingrediente7": " 1 colher de chá orégano",
+          "ingrediente8": "6 cenouras médias descascadas, cortadas em pedaços de 2 cm ou mini cenouras",
+          "ingrediente9": "1 xícara vagem francesa cortada em 3",
+          "ingrediente10": " 1 xícara cebola roxa em fina tiras",
+          "ingrediente11": " ½ xícara espinafre (folhas limpas)",
+          "ingrediente12": " 4 colheres de sopa azeite",
+          "ingrediente13": "1 colher de sopa sal de especiarias",
+          "ingrediente14": "10 tomates cereja cortados ao meio",
+          "ingrediente15": " ¼ xícara amêndoas torradas",
+          "ingrediente16": "picadas ou amêndoas laminada",
+          "ingrediente17": "¼ xícara ervas frescas (cebolinha, coentro fresco. Deixar com caules)",
+          "ingrediente18": "limão (suco)"
+        },
+        "descriptionpreparo": "Painço: Em fogo médio-alto aqueça 2 colheres de sopa azeite em uma panela média. Adicione as sementes de mostarda e painço e vá mexendo, até começar a dourar e soltar perfume, cerca de 2 minutos. Adicione o caldo e os demais ingredientes e deixe ferver. Reduza o fogo, tampe, mexendo ocasionalmente, até que o painço esteja macio, 25 a 35 minutos."
+      },
+  
+      {
+        "id": "2",
+        "title": "Acarajé Vegano",
+        "image": "https://i.imgur.com/eRjm5w5.png",
+        "times": "30",
+        "porcoes": 5,
+        "descriptioningredientes": {
+          "ingrediente1": "1 kg de feijão fradinho ",
+          "ingrediente2": "2 cebolas descascadas ",
+          "ingrediente3": " sal a gosto ",
+          "ingrediente4": "cebolinha a gosto",
+          "ingrediente5": "  1 litro de óleo de soja",
+          "ingrediente6": "100ml de azeite de dendê"
+        },
+        "descriptionpreparo": "Deixe o feijão fradinho de molho por 3 horas na geladeira. Em seguida escorra a água e passe o feijão no processador até obter uma massa pastosa.Em seguida bata as cebolas no liquidificador com 1/3 de copo de água e adicione na pasta de feijão, sal e cebolinha. Misture tudo muito bem e deixe descansar por 15 minutos. Modele porções do acarajé fazendo bolinhos com duas colheres de sopa. Leve para fritar em óleo quente, escorra em papel absorvente e sirva! "
+      },
+  
+      {
+        "id": "3",
+        "title": "Moqueca de Cogumelos",
+        "image": "https://i.imgur.com/1rcuLry.png",
+        "times": "30",
+        "porcoes": 5,
+        "descriptioningredientes": {
+          "ingrediente1": " 250 gramas cogumelo paris",
+          "ingrediente2": "1 xícara ervilha congelada",
+          "ingrediente3": " 400 ml leite de coco ",
+          "ingrediente4": "1 unidade cenoura",
+          "ingrediente5": " 2 unidades cebola ",
+          "ingrediente6": " 1 unidade pimentão vermelho",
+          "ingrediente7": "1 unidade pimentão amarelo",
+          "ingrediente8": "1/2 unidade pimentão verde",
+          "ingrediente9": "2 unidades tomate",
+          "ingrediente10": "2 dentes alho",
+          "ingrediente11": " 1 unidade pimenta dedo-de-moça opcinal",
+          " ingrediente12": "2 colher sopa azeite de dendê",
+          "ingrediente13": "1/4 xícara coentro picado",
+          "ingrediente14": "10 tomates cereja cortados ao meio",
+          "ingrediente15": " 1 colher sopa farinha de mandioca"
+        },
+  
+        "descriptionpreparo": "Picar todos os ingredientes e refogar o alho, dedo-de-moça e o cogumelo no azeite até secar a água. Adicionar o dendê, metade da cebola e do pimentão refogando por cerca de 3 minutos. Acrescentar o leite de coco, cenoura, restante da cebola e do pimentão, tomate em rodelas e ajustar de sal.  Cozinhar por cerca de 15 minutos e adicionar a ervilha congelada. Após cozinhar por mais 3 minutos, dissolva a farinha de mandioca com um pouco de água e misture na panela para engrossar. Finalizar com coentro e sal."
+      },
+  
+      {
+        "id": "4",
+        "title": "Baião de Dois Vegano",
+        "image": "https://i.imgur.com/fvC0ZzK.png",
+        "times": "30",
+        "porcoes": 5,
+        "descriptioningredientes": {
+          "ingrediente1": " 125g de arroz cateto integral ",
+          "ingrediente2": "125g de feijão carioca",
+          "ingrediente3": "375g de pimentão vermelho em tiras ",
+          "ingrediente4": "250g de couve em tiras",
+          "ingrediente5": " 375g de cenoura em tiras",
+          "ingrediente6": "375g de tofu em cubos",
+          "ingrediente7": "250g de cebola em fatias",
+          "ingrediente8": "10g de alho picado",
+          " ingrediente9": "5g de pimenta dedo de moça em cubinhos",
+          "ingrediente10": " 10g de coentro picado",
+          " ingrediente11": "10g de salsa picada ",
+          "ingrediente12": "1 limão",
+          " ingrediente13": "100ml de azeite de oliva",
+          "ingrediente14": "sal a gosto."
+        },
+        "descriptionpreparo": "Cozinhe o arroz e o feijão separadamente normalmente até estarem macios e a água tiver secado completamente.  Refogue os legumes no azeite e alho em uma frigideira. Doure o tofu com azeite em forno pré aquecido a 200°C por 20 minutos.Em uma panela, misture todos os ingredientes e tempere com salsa, coentro, limão, azeite e sal a gosto. Sirva em seguida."
+      }
+    ]
+  }
+  
